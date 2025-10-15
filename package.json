@@ -1,0 +1,27 @@
+{
+  "name": "calm-code",
+  "displayName": "Calm Code",
+  "description": "Quiet, dark theme for VS Code focused on low visual noise and high readability.",
+  "version": "1.0.0",
+  "publisher": "kvvprof",
+  "icon": "icon.png",
+  "engines": {
+    "vscode": "^1.99.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Calm Code",
+        "uiTheme": "vs-dark",
+        "path": "./themes/calm-code.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kvvprof/calm-code.git"
+  }
+}
