@@ -217,13 +217,13 @@
     "editorInlayHint.parameterBackground": "#2D2D2D",
     "editorInlayHint.parameterForeground": "#B8B9B3",
 
-    // Find/Match (мягко, без бордеров)
-    "editor.findMatchBackground": "#E0DED233",
-    "editor.findMatchHighlightBackground": "#E0DED21F",
-    "editor.findRangeHighlightBackground": "#0D262833",
+    // Find/Match
+    "editor.findMatchBackground": "#E0DED266",
+    "editor.findMatchHighlightBackground": "#E0DED233",
+    "editor.findRangeHighlightBackground": "#E0DED21F",
     "editor.rangeHighlightBackground": "#0D262814",
     "editor.rangeHighlightBorder": "#2F3130",
-    "editor.findMatchBorder": "#00000000",
+    "editor.findMatchBorder": "#F67050",
 
     // Scrollbars & Minimap
     "scrollbarSlider.background": "#2D3030AA",
