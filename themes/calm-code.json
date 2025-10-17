@@ -22,6 +22,7 @@
     "editor.selectionForeground": "#E0DED2",
     "editor.inactiveSelectionBackground": "#3A3A3A80",
     "editor.selectionHighlightBackground": "#E0DED21A",
+    "editor.linkedEditingBackground": "#A7A59640",
     "editor.wordHighlightBackground": "#E0DED214",
     "editor.wordHighlightStrongBackground": "#E0DED226",
     "editor.lineHighlightBackground": "#2A2A2A",
@@ -218,12 +219,12 @@
     "editorInlayHint.parameterForeground": "#B8B9B3",
 
     // Find/Match
-    "editor.findMatchBackground": "#E0DED266",
-    "editor.findMatchHighlightBackground": "#E0DED233",
-    "editor.findRangeHighlightBackground": "#E0DED21F",
-    "editor.rangeHighlightBackground": "#2E2F2E14",
-    "editor.rangeHighlightBorder": "#2F3130",
-    "editor.findMatchBorder": "#F67050",
+    "editor.findMatchBackground": "#F78A6BAA",
+    "editor.findMatchHighlightBackground": "#A7A59640",
+    "editor.findRangeHighlightBackground": "#00000000",
+    "editor.rangeHighlightBackground": "#00000000",
+    "editor.rangeHighlightBorder": "#00000000",
+    "editor.findMatchBorder": "#00000000",
 
     // Scrollbars & Minimap
     "scrollbarSlider.background": "#2D3030AA",
