@@ -105,7 +105,7 @@
     "tab.activeForeground": "#8B8B89",
     "tab.inactiveBackground": "#242424",
     "tab.inactiveForeground": "#8B8B89",
-    "tab.hoverBackground": "#2C2C2C",
+    "tab.hoverBackground": "#323232",
     "tab.border": "#2D3030",
     "tab.activeBorder": "#2D3030",
     "tab.activeBorderTop": "#2D3030",
@@ -274,7 +274,7 @@
     "gitDecoration.addedResourceForeground": "#8AC88A",
     "gitDecoration.modifiedResourceForeground": "#E0DED2",
     "gitDecoration.deletedResourceForeground": "#FF8C8C",
-    "gitDecoration.untrackedResourceForeground": "#E0DED2",
+    "gitDecoration.untrackedResourceForeground": "#8AC88A",
     "gitDecoration.ignoredResourceForeground": "#707070",
     "gitDecoration.conflictingResourceForeground": "#F78A6B",
 
