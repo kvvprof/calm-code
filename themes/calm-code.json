@@ -89,9 +89,9 @@
     "merge.commonHeaderBackground": "#2D303033",
 
     // Diff borders & gutter (better visibility)
-    "diffEditor.insertedTextBorder": "#8AC88A80",
-    "diffEditor.removedTextBorder": "#FF8C8C80",
-    "diffEditorGutter.insertedLineBackground": "#8AC88A33",
+    "diffEditor.insertedTextBorder": "#00000000",
+    "diffEditor.removedTextBorder": "#00000000",
+    "diffEditorGutter.insertedLineBackground": "#4A554233",
 
     // Panels, Groups & Tabs
     "panel.background": "#252525",
