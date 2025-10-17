@@ -80,18 +80,19 @@
     "editorOverviewRuler.warningForeground": "#F78A6BAA",
     "editorOverviewRuler.infoForeground": "#9CC6E6AA",
 
-    // Diff / Merge
-    "diffEditor.insertedTextBackground": "#8AC88A26",
-    "diffEditor.removedTextBackground": "#FF8C8C26",
-    "diffEditor.diagonalFill": "#2D3030",
-    "merge.currentHeaderBackground": "#9CC6E633",
-    "merge.incomingHeaderBackground": "#8AC88A33",
-    "merge.commonHeaderBackground": "#2D303033",
+    // Diff / Merge — polished
+    "diffEditor.insertedTextBackground": "#4F7C5A55",
+    "diffEditor.removedTextBackground": "#B55C5C66",
+    "diffEditor.insertedLineBackground": "#4E654E44",
+    "diffEditor.removedLineBackground": "#62454544",
+    "diffEditor.diagonalFill": "#2A2D2D",
+    "merge.currentHeaderBackground": "#7AA6C633",
+    "merge.incomingHeaderBackground": "#4E654E44",
+    "merge.commonHeaderBackground": "#2A2D2D33",
 
-    // Diff borders & gutter (better visibility)
+    // Borders off, gutter в тон линиям
     "diffEditor.insertedTextBorder": "#00000000",
     "diffEditor.removedTextBorder": "#00000000",
-    "diffEditorGutter.insertedLineBackground": "#4A554233",
 
     // Panels, Groups & Tabs
     "panel.background": "#252525",
@@ -271,11 +272,11 @@
     "menu.separatorBackground": "#2D3030",
 
     // Git Decorations
-    "gitDecoration.addedResourceForeground": "#8AC88A",
+    "gitDecoration.addedResourceForeground": "#E0DED2",
     "gitDecoration.modifiedResourceForeground": "#E0DED2",
     "gitDecoration.deletedResourceForeground": "#FF8C8C",
-    "gitDecoration.untrackedResourceForeground": "#8AC88A",
-    "gitDecoration.ignoredResourceForeground": "#707070",
+    "gitDecoration.untrackedResourceForeground": "#E0DED2",
+    "gitDecoration.ignoredResourceForeground": "#5A5A5A",
     "gitDecoration.conflictingResourceForeground": "#F78A6B",
 
     // Testing
