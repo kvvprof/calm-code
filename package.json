@@ -2,7 +2,7 @@
   "name": "calm-code",
   "displayName": "Calm Code",
   "description": "Quiet, dark theme for VS Code focused on low visual noise and high readability.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "kvvprof",
   "icon": "icon.png",
   "engines": {
