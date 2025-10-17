@@ -47,7 +47,7 @@
     "editorGhostText.foreground": "#A6A7A14D",
     "editorGutter.commentRangeForeground": "#6F6F6F",
 
-    // Editor - Bracket Pair Colorization / Guides (new)
+    // Editor - Bracket Pair Colorization / Guides
     "editorBracketHighlight.foreground1": "#A0A19B",
     "editorBracketHighlight.foreground2": "#9A9B95",
     "editorBracketHighlight.foreground3": "#8E8F8A",
@@ -80,19 +80,17 @@
     "editorOverviewRuler.warningForeground": "#F78A6BAA",
     "editorOverviewRuler.infoForeground": "#9CC6E6AA",
 
-    // Diff / Merge — polished
+    // Diff / Merge
     "diffEditor.insertedTextBackground": "#4F7C5A55",
     "diffEditor.removedTextBackground": "#B55C5C66",
     "diffEditor.insertedLineBackground": "#4E654E44",
     "diffEditor.removedLineBackground": "#62454544",
     "diffEditor.diagonalFill": "#2A2D2D",
+    "diffEditor.insertedTextBorder": "#00000000",
+    "diffEditor.removedTextBorder": "#00000000",
     "merge.currentHeaderBackground": "#7AA6C633",
     "merge.incomingHeaderBackground": "#4E654E44",
     "merge.commonHeaderBackground": "#2A2D2D33",
-
-    // Borders off, gutter в тон линиям
-    "diffEditor.insertedTextBorder": "#00000000",
-    "diffEditor.removedTextBorder": "#00000000",
 
     // Panels, Groups & Tabs
     "panel.background": "#252525",
