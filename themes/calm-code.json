@@ -342,7 +342,7 @@
     {
       "name": "Parameters",
       "scope": ["variable.parameter"],
-      "settings": { "foreground": "#D6D4C8" }
+      "settings": { "foreground": "#E0DED2" }
     },
     {
       "name": "Functions & Methods",
@@ -396,7 +396,7 @@
         "support.type.property-name",
         "meta.structure.dictionary.json support.type.property-name.json"
       ],
-      "settings": { "foreground": "#C3D7E5" }
+      "settings": { "foreground": "#E0DED2" }
     },
     {
       "name": "Import / Export",
