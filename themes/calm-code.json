@@ -321,7 +321,7 @@
         "punctuation.separator",
         "punctuation.accessor"
       ],
-      "settings": { "foreground": "#A0A19B" }
+      "settings": { "foreground": "#B0B1A8" }
     },
     {
       "name": "Arrow Function Operator (=>)",
@@ -332,7 +332,7 @@
         "keyword.operator.arrow",
         "punctuation.definition.arrow"
       ],
-      "settings": { "foreground": "#A0A19B" }
+      "settings": { "foreground": "#B0B1A8" }
     },
     {
       "name": "Variables",
@@ -449,7 +449,7 @@
         "punctuation.section.parens.begin.decorator",
         "punctuation.section.parens.end.decorator"
       ],
-      "settings": { "foreground": "#A0A19B" }
+      "settings": { "foreground": "#B0B1A8" }
     },
     {
       "name": "Regex",
@@ -528,7 +528,7 @@
         "punctuation.definition.template-expression",
         "punctuation.section.embedded"
       ],
-      "settings": { "foreground": "#A0A19B" }
+      "settings": { "foreground": "#B0B1A8" }
     },
     {
       "name": "Markdown Headings",
@@ -557,7 +557,7 @@
         "punctuation.definition.parameters",
         "punctuation.definition.array"
       ],
-      "settings": { "foreground": "#A0A19B" }
+      "settings": { "foreground": "#B0B1A8" }
     },
     {
       "name": "Punctuation — Extended Coverage",
@@ -592,7 +592,7 @@
         "punctuation.section.group.begin",
         "punctuation.section.group.end"
       ],
-      "settings": { "foreground": "#A0A19B" }
+      "settings": { "foreground": "#B0B1A8" }
     },
     {
       "name": "Invalid / Deprecated",
@@ -606,8 +606,9 @@
 
   "semanticTokenColors": {
     "variable": "#E0DED2",
-    "parameter": "#E3E1D6",
-    "property": "#E3E1D6",
+    "parameter": "#E0DED2",
+    "property": "#E0DED2",
+    "property.declaration": "#E0DED2",
     "function": "#A7D8EE",
     "method": "#A7D8EE",
     "class": "#5C91D1",
@@ -617,14 +618,14 @@
     "namespace": "#5C91D1",
     "decorator": "#B79ED9",
     "event": "#9CC6E6",
-    "regexp": "#7ADFFF",
+    "regexp": "#6ACFF6",
     "string": "#8AC88A",
     "number": "#F78A6B",
     "boolean": "#FF9E6B",
     "enumMember": "#FF9E6B",
     "typeParameter": "#5C91D1",
-    "keyword": "#9CC6E6",
+    "keyword": "#9FBAD0",
     "comment": "#7A7B76",
-    "operator": "#A0A19B"
+    "operator": "#B0B1A8"
   }
 }
