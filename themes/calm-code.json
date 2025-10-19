@@ -219,7 +219,7 @@
     "editorInlayHint.parameterForeground": "#B8B9B3",
 
     // Find/Match
-    "editor.findMatchBackground": "#F78A6BAA",
+    "editor.findMatchBackground": "#CC604499",
     "editor.findMatchHighlightBackground": "#A7A59640",
     "editor.findRangeHighlightBackground": "#00000000",
     "editor.rangeHighlightBackground": "#00000000",
