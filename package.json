@@ -11,6 +11,9 @@
   "categories": [
     "Themes"
   ],
+  "scripts": {
+    "build": "vsce package"
+  },
   "contributes": {
     "themes": [
       {
