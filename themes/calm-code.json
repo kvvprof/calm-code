@@ -299,17 +299,12 @@
     {
       "name": "Keywords — Control",
       "scope": ["keyword.control"],
-      "settings": { "foreground": "#9CC6E6", "fontStyle": "bold" }
+      "settings": { "foreground": "#9FBAD0", "fontStyle": "bold" }
     },
     {
       "name": "Keywords — Declarations & Storage",
-      "scope": [
-        "storage.type",
-        "storage.modifier",
-        "keyword.declaration",
-        "keyword.other"
-      ],
-      "settings": { "foreground": "#9CC6E6", "fontStyle": "bold" }
+      "scope": ["storage.modifier", "keyword.declaration", "keyword.other"],
+      "settings": { "foreground": "#9FBAD0", "fontStyle": "bold" }
     },
     {
       "name": "Operators & Punctuation",
@@ -365,7 +360,6 @@
         "constant.language",
         "support.constant",
         "constant.character",
-        "constant.escape",
         "keyword.other.unit"
       ],
       "settings": { "foreground": "#F78A6B" }
@@ -405,7 +399,7 @@
         "keyword.control.export",
         "keyword.control.from"
       ],
-      "settings": { "foreground": "#9CC6E6" }
+      "settings": { "foreground": "#9FBAD0" }
     },
     {
       "name": "New operator",
@@ -459,7 +453,7 @@
         "string.regexp.group",
         "string.regexp.arbitrary-repetition"
       ],
-      "settings": { "foreground": "#7ADFFF" }
+      "settings": { "foreground": "#6ACFF6" }
     },
     {
       "name": "HTML/CSS Tags",
@@ -500,9 +494,6 @@
         "meta.type.annotation",
         "meta.type.declaration",
         "meta.return.type",
-        "entity.name.type",
-        "entity.name.type.alias",
-        "entity.name.type.parameter",
         "support.type",
         "support.type.primitive",
         "support.type.builtin",
